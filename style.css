@@ -37,15 +37,24 @@ h1 {font-size: 36px;
     font-style: bold;}
 
 h2 {font-size: 32px;
-    font-style: bold;}
+    font-style: bold;
+    color: #1B1B1B;}
 
 h3 {font-size: 16px;}
 
 p {font-size: 16px;
-   font-style: regular;}
+   font-style: regular;
+   color: #333333;
+   width: 1120px;}
 
 .accent {color: #0C51A7;}
 
 .purple {color: #591B98; }
 .orange {color: #E95E10;}
-.pink {color: #E5245E;}
+.pink {color: #411a26;}
+
+#line 
+{width: 1120px;
+ height: 1px;
+ background-color: silver;}
+ 
