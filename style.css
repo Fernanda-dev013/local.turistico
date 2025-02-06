@@ -17,12 +17,15 @@ body{
 }
     
 .destaque {
- font-size:16px;
- color: #E1624F;
-}
+    color: #E1624F;
+    margin-top: 64px;
+    margin-bottom: 8px;
+    font-weight: bold;
+    font-size: 16px;
+    text-transform: uppercase;}
+      
 
 img {border-radius: 28px;}
-    
 
 figcaption{
     height: 37px;
@@ -34,27 +37,41 @@ figcaption{
 }
 
 h1 {font-size: 36px;
-    font-style: bold;}
+    font-style: bold;
+    margin-bottom: 40px;}
+
 
 h2 {font-size: 32px;
     font-style: bold;
-    color: #1B1B1B;}
+    color: #1B1B1B;
+    margin-top: 20px;}
 
-h3 {font-size: 16px;}
+.destinos{margin-top: 8px;}
+
+.ok{margin-bottom: 64px;
+    margin-top: 8px;}
+
+h3 {font-size: 16px;
+    margin-top: 20px;}
 
 p {font-size: 16px;
    font-style: regular;
    color: #333333;
    width: 1120px;}
 
-.accent {color: #0C51A7;}
+.accent {color: #0C51A7;
+         margin-bottom: 48px;}
 
-.purple {color: #591B98; }
+.purple {color: #591B98;}
 .orange {color: #E95E10;}
-.pink {color: #411a26;}
+.pink   {color: #411a26;}
+
+ul{ padding-left: 20px;}
 
 #line 
 {width: 1120px;
  height: 1px;
- background-color: silver;}
- 
+ background-color: silver;
+ margin-top: 40px;}
+
+.descripcion {margin-top: 40px;} 
