@@ -66,7 +66,7 @@ p {font-size: 16px;
 .orange {color: #E95E10;}
 .pink   {color: #411a26;}
 
-ul{ padding-left: 20px;}
+ul{ padding-left: 30px;}
 
 #line 
 {width: 1120px;
@@ -74,4 +74,14 @@ ul{ padding-left: 20px;}
  background-color: silver;
  margin-top: 40px;}
 
-.descripcion {margin-top: 40px;} 
+.descripcion {
+    margin-top: 40px;
+    width: 1120px;
+    text-align: center;} 
+
+footer {
+ color: #333;
+ width: 1120px;
+ text-align: center;
+ margin-top: 80px;
+ font-family: "Alice", serif;}
